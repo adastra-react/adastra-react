@@ -1,4 +1,4 @@
-### Hi there 👋, Suneil England
+### Hi there 👋
 #### MERN stack developer
 ![MERN stack developer](https://media-exp1.licdn.com/dms/image/C5616AQGVyj27xT-8Lw/profile-displaybackgroundimage-shrink_350_1400/0/1611167236505?e=1632960000&v=beta&t=KVwVIfuQWaIjD8IdNay95-9Yero0CarYcUqtv88MVZo)
 
