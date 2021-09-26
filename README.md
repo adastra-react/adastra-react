@@ -16,7 +16,7 @@ Skills: NODE JS / REACT / JS / HTML / CSS /EXPRESS JS / FIREBASE / REACT NATIVE 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adastra)](https://github.com/anuraghazra/github-readme-stats)
  -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adastra-react&show_icons=true&count_private=false)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adastra-react&show_icons=true&count_private=true)  
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/adastra)   -->
 
