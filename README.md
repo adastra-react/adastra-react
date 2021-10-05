@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### MERN stack developer
-![MERN stack developer](https://media-exp1.licdn.com/dms/image/C5616AQGVyj27xT-8Lw/profile-displaybackgroundimage-shrink_350_1400/0/1611167236505?e=1632960000&v=beta&t=KVwVIfuQWaIjD8IdNay95-9Yero0CarYcUqtv88MVZo)
-
+<!-- ![MERN stack developer](https://media-exp1.licdn.com/dms/image/C5616AQGVyj27xT-8Lw/profile-displaybackgroundimage-shrink_350_1400/0/1611167236505?e=1632960000&v=beta&t=KVwVIfuQWaIjD8IdNay95-9Yero0CarYcUqtv88MVZo)
+ -->
 I'm Suneil England from Jamaica, I do MERN stack development, UI/UX designing, 3D modeling and video editng. I find learning new languages and framerworks to be exciting and adventurous. I like the idea of learning new skill, then being able to use my new found abilities in real projects.
 
 
