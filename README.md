@@ -40,11 +40,6 @@ s://github.com/anuraghazra/github-readme-stats) -->
 ...
 </details> -->
 
-- 🔭 I’m currently working on my own business
-- 🌱 I’m currently learning react native, python
-- 💬 Ask me about cars, coding, anime and food
-- 📫 How to reach me: My social links and listed above
-- ⚡ Fun fact: car enthusiast here(BRZ LOVER 😍), certified anime weeb, Apex legends player since season 0(wraith 😊)
 
 <!--
 **adastra-react/adastra-react** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
