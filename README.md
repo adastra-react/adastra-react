@@ -12,17 +12,12 @@
 
 ## My Expertise
 <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff" />
-<img align="left" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img align="left" alt="react native" src="https://img.shields.io/badge/React Native-35495E?style=for-the-badge&logo=react&native&logoColor=61dbfb" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" alt="react.js" src="https://img.shields.io/badge/react.js-35495E?style=for-the-badge&logo=react&logoColor=61dbfb" />
 <img align="left" alt="next.js" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img align="left" alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img align="left" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<br>
-<br>
-
-<img align="left" alt="react native" src="https://img.shields.io/badge/React Native-35495E?style=for-the-badge&logo=react&native&logoColor=61dbfb" />
 
 <br>
 <br>
