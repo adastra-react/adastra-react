@@ -1,47 +1,37 @@
-### Hi there 👋
-#### MERN stack developer
-<!-- ![MERN stack developer](https://media-exp1.licdn.com/dms/image/C5616AQGVyj27xT-8Lw/profile-displaybackgroundimage-shrink_350_1400/0/1611167236505?e=1632960000&v=beta&t=KVwVIfuQWaIjD8IdNay95-9Yero0CarYcUqtv88MVZo)
- -->
-I'm Suneil England, a senior frontend engineer. I do MERN stack development, UI/UX designing, 3D modeling and video editng. I find learning new languages and framerworks to be exciting and adventurous. I like the idea of learning new skill, then being able to use my new found abilities in real projects.
+### Hi there, I'm Suneil <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
-- You check out my online portfolio at: https://suneil-england-portfolio.netlify.app/ 
-- my instagram: ```@cypher_2701```
-- my twitter: https://twitter.com/SunielEngland
-- linkedIn: https://www.linkedin.com/in/suneil-england/.
+5+ years of professional experience in software engineering using the following technology stack: React.js, React Native, MongoDB, Express.js, Node.js, Sass, HTML, CSS, Redux, Firebase, Git/Github, REST API, GraphQL
+<br>
 
-Skills: NODE JS / REACT / JS / HTML / CSS /EXPRESS JS / FIREBASE / REACT NATIVE / CD / CI
+- 🔭 Currently: I'm developing some awesome automation projects with smarthub JA.
+- 👨🏾‍💻 Learning: GraphQL, Next and advanced react native with websockets, running apot of typescript.
+- ⚡ Fun fact: I was on national TV for a websites that I made, and currently in the top 100 spot for public contributions in my country.
 
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adastra)  
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adastra)](https://github.com/anuraghazra/github-readme-stats)
- -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adastra-react&show_icons=true&count_private=true)  
+## My Expertise
+<img align="left" alt="typescript" src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff" />
+<img align="left" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="left" alt="react.js" src="https://img.shields.io/badge/react.js-35495E?style=for-the-badge&logo=react&logoColor=61dbfb" />
+<img align="left" alt="next.js" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img align="left" alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img align="left" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/adastra)   -->
+<br>
+<br>
 
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adastra)  
+<img align="left" alt="react native" src="https://img.shields.io/badge/React Native-35495E?style=for-the-badge&logo=react&native&logoColor=61dbfb" />
 
-s://github.com/anuraghazra/github-readme-stats) -->
+<br>
+<br>
 
+## 📫 Connect With Me 
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suneil-england/) 
+<!-- [<img align="left" alt="linked-in" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />](https://www.devjasonclarke.com/) -->
 
-<!-- [](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-... -->
-
-<!-- <details>
-<summary>More Skills</summary>
-
-[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-...
-</details> -->
-
-
-<!--
-**adastra-react/adastra-react** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
+<br>
+<br>
+ 
+🙏🏾 Thanks for reading!
