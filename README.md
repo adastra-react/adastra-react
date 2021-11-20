@@ -5,7 +5,7 @@
 <br>
 
 - 🔭 Currently: I'm developing some awesome automation projects with smarthub JA.
-- 👨🏾‍💻 Learning: GraphQL, Next and advanced react native with websockets, running apot of typescript.
+- 👨🏾‍💻 Learning: GraphQL, Next and advanced react native with websockets using typescript.
 - ⚡ Fun fact: I was on national TV for a websites that I made, and currently in the top 100 spot for public contributions in my country.
 
 <br>
