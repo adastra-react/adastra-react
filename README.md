@@ -1,7 +1,7 @@
 ### Hi there, I'm Suneil <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
-5-6 years of professional experience in software engineering using the following technology stack: React.js, React Native, MongoDB, Express.js, Node.js, Sass, HTML, CSS, Redux, Firebase, Git/Github, REST API, GraphQL
+6 years of professional experience in software engineering using the following technology stack: React.js, React Native, MongoDB, Express.js, Node.js, Sass, HTML, CSS, Redux, Firebase, Git/Github, REST API, GraphQL
 <br>
 
 - 🔭 Currently: I'm developing some awesome automation projects with smarthub JA.
