@@ -20,7 +20,8 @@
 - Proficient in Node.js and experienced in working with large codebase and e2e testing like Cypress
 
 ## Education
-- BS in Computer Science or equivalent
+- B.S. Computer Science, University of Technology, Jamaica (Sep 2019 - Aug 2023)
+- NanoDegree in React Developer, Udacity (Aug 2020 - Oct 2020)
 
 ## Goals
 - Contribute to improving the user experience in decentralized finance
