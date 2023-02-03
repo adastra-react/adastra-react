@@ -33,5 +33,6 @@
 
 ## Contact
 - Email: [suneilengland.dev@gmail.com]
-- LinkedIn: [[Your LinkedIn profile link](https://www.linkedin.com/in/suneil-england/)]
+- LinkedIn: [[My LinkedIn](https://www.linkedin.com/in/suneil-england/)]
+- Portfolio: [[My Portfolio](https://suneilengland.com/)]
 
