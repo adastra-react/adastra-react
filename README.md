@@ -2,6 +2,9 @@
 
 ## Skills
 - React.js
+- React Native
+- MongoDB
+- AWS
 - TypeScript
 - GraphQL/Apollo
 - Solidity
