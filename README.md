@@ -1,32 +1,33 @@
-### Hi there, I'm Suneil <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Frontend React & Solidity Blockchain Developer
 
+## Skills
+- React.js
+- TypeScript
+- GraphQL/Apollo
+- Solidity
+- Web3
+- Node.js
+- DeFi
 
-5-6 years of professional experience in software engineering using the following technology stack: React.js, React Native, MongoDB, Express.js, Node.js, Sass, HTML, CSS, Redux, Firebase, Git/Github, REST API, GraphQL
-<br>
+## Experience
+- 5+ years of frontend development experience
+- Expertise in building user-friendly, secure, and scalable interfaces and UI systems
+- Strong understanding of React best practices, optimizations, and profiling
+- Experience with TypeScript, GraphQL/Apollo, and REST
+- Passionate about crypto markets, Web3, and DeFi
+- Entrepreneurial spirit and ability to bring ideas to front-end development
+- Collaborative and autonomous, with a deep understanding of front-end user experience
+- Proficient in Node.js and experienced in working with large codebase and e2e testing like Cypress
 
-- 🔭 Currently: I'm developing some awesome automation projects with smarthub JA.
-- 👨🏾‍💻 Learning: GraphQL, Next and advanced react native with websockets using typescript.
-- ⚡ Fun fact: I was on national TV for a websites that I made, and currently in the top 100 spot for public contributions in my country.
+## Education
+- BS in Computer Science or equivalent
 
-<br>
+## Goals
+- Contribute to improving the user experience in decentralized finance
+- Stay up-to-date with the latest technologies and best practices in frontend development
+- Collaborate with other developers, designers, and product teams to build top-tier products
 
-## My Expertise
-<img align="left" alt="typescript" src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff" />
-<img align="left" alt="react native" src="https://img.shields.io/badge/React Native-35495E?style=for-the-badge&logo=react&native&logoColor=61dbfb" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="left" alt="react.js" src="https://img.shields.io/badge/react.js-35495E?style=for-the-badge&logo=react&logoColor=61dbfb" />
-<img align="left" alt="next.js" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<br>
-<br> 
-<img align="left" alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-<br>
-<br> 
+## Contact
+- Email: [suneilengland.dev@gmail.com]
+- LinkedIn: [[Your LinkedIn profile link](https://www.linkedin.com/in/suneil-england/)]
 
-## 📫 Connect With Me 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suneil-england/) 
-<!-- [<img align="left" alt="linked-in" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />](https://www.devjasonclarke.com/) -->
-
-<br>
-<br>
- 
-🙏🏾 Thanks for reading!
