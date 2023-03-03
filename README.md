@@ -13,7 +13,7 @@
 - DeFi
 
 ## Experience
-- 5+ years of frontend development experience
+- 6+ years of frontend development experience
 - Expertise in building user-friendly, secure, and scalable interfaces and UI systems
 - Strong understanding of React best practices, optimizations, and profiling
 - Experience with TypeScript, GraphQL/Apollo, and REST
