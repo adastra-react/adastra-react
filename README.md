@@ -23,7 +23,6 @@
 - Proficient in Node.js and experienced in working with large codebase and e2e testing like Cypress
 
 ## Education
-- B.S. Computer Science, University of Technology, Jamaica (Sep 2019 - Aug 2023)
 - NanoDegree in React Developer, Udacity (Aug 2020 - Oct 2020)
 
 ## Goals
