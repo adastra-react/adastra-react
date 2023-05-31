@@ -1,16 +1,18 @@
-# Frontend React & Solidity Blockchain Developer
+# Fullstack/Cloud Developer
 
 ## Skills
 - React.js
 - React Native
 - MongoDB
 - AWS
+- GCP
 - TypeScript
 - GraphQL/Apollo
 - Solidity
 - Web3
 - Node.js
 - DeFi
+- Python
 
 ## Experience
 - 7+ years of frontend development experience
