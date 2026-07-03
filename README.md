@@ -33,7 +33,7 @@
 - Collaborate with other developers, designers, and product teams to build top-tier products
 
 ## Contact
-- Email: [suneilengland.dev@gmail.com]
-- LinkedIn: [[My LinkedIn](https://www.linkedin.com/in/suneil-england/)]
+- Email: [sunielengland22@gmail.com]
+- LinkedIn: [[My LinkedIn](https://www.linkedin.com/in/suneilengland/)]
 - Portfolio: [[My Portfolio](https://suneilengland.com/)]
 
